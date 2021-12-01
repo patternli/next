@@ -1,4 +1,5 @@
 ---
-layout: lib/default
+layout: default
+type: prototype
 ---
 hello world
